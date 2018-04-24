@@ -1,5 +1,5 @@
 ### Introduction
-This repository is focused in building models using Monte Carlo method based on experimentation results about raspberry-like nanostructures. It contains MATLAB code for building models, data processing and visualization. It is an essential part of my graduate work. Please see the author lists for other contributors of this work.
+This repository is focused in building models using molecular dynamics simulation based on experimentation results about raspberry-like nanostructures. It contains MATLAB code for building models, data processing and visualization. It is an essential part of my graduate work. Please see the author lists for other contributors of this work.
 
 ### Methods
 The code is mainly written in MATLAB R2010a. Please refer to the MD_simulation.pdf file in this repository for the details of the model.
